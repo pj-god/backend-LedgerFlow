@@ -115,7 +115,7 @@ If a transaction fails due to insufficient balance or other validation issues, u
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/pj-god/ledgerx-api.git
+git clone https://github.com/pj-god/backend-LedgerFlow.git
 
 ```
 
